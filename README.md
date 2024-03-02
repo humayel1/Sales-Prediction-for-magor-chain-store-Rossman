@@ -41,8 +41,7 @@ Approach
 
 <p>Random forest is a supervised learning algorithm. It creates a "forest" out of an ensemble of decision trees, which are commonly trained using the "bagging" method. The bagging method's basic premise is that combining different learning models improves the overall output.
 Simply said, random forest combines many decision trees to produce a more accurate and stable prediction.
-<img src="![image](https://github.com/humayel1/Sales-Prediction-for-major-chain-store-Rossman/assets/134964717/1c7a9b14-a678-40a3-8956-613c39e9604d)
-" alt="Random Forest" style="max-width:60%;"></p>
+</p>
 
 <p>Furthermore, the random forest classifier is efficient, can handle a large number of input variables, and provides correct predictions in most cases. It's a very strong tool that doesn't require any coding to implement.</p>
 
@@ -64,32 +63,7 @@ The outliers in the dataset showed justifiable behaviour. The outliers were eith
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- CREDITS -->
-<h2 id="credits"> :scroll: Credits</h2>
 
-< Vithika Karan > | Keen Learner | Business Analyst | Data Scientist | Machine Learning Enthusiast
-
-<p> <i> Contact me for Data Science Project Collaborations</i></p>
-
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vithika-karan/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vithika-karan)
-[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vithika16k)
-[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/drive/folders/1Y_MuQu-nm_EWUGiFsydd-c4EkaLeAkZi?usp=sharing)
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<h2> :books: References</h2>
-<ul>
-  <li><p>Andrew Udell, 'Predicting E-Commerce Sales with Random Forest'. [Online].</p>
-      <p>Available: https://towardsdatascience.com/predicting-e-commerce-sales-with-a-random-forest-regression-3f3c8783e49b</p>
-  </li>
-  <li><p>Builtin.com, 'Random Forest'. [Online].</p>
-      <p>Available: https://builtin.com/data-science/random-forest-algorithm</p>
-  </li>
-  <li><p>Machine Learning Mastery, 'Random Forest for Time Series Prediction'. [Online].</p>
-      <p>Available: https://machinelearningmastery.com/random-forest-for-time-series-forecasting/</p>
-  </li>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
